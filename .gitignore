@@ -1,0 +1,48 @@
+# --- Unity generelle Ordner ---
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Oo]bj/
+[Mm]emoryCaptures/
+UserSettings/
+
+# --- IDE / Editor ---
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Rider / IntelliJ
+.idea/
+*.iml
+
+# --- OS-spezifisch ---
+.DS_Store
+Thumbs.db
+
+# --- Unity Asset Store und Packages Cache ---
+[Aa]ssets/AssetStoreTools*
+[Aa]ssetStore/
+Packages/manifest-temp.json
+
+# --- Build-Artefakte & Sonstiges ---
+*.unitypackage
+*.apk
+*.aab
+*.app
+*.exe
+*.dll
+*.log
+*.tmp
+
+# --- Crash & Report Files ---
+sysinfo.txt
+crash_*.dmp
