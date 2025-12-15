@@ -1,0 +1,11 @@
+{
+    "asset": "e837ac9f8df1a21489a75baa157b2e09",
+    "fileName": "019b2161-add6-7e72-8be0-a74967da37fc_Preview.png",
+    "prompt": "farbverlauf, links rot, rechts braun, kaffeebohnen",
+    "negativePrompt": "",
+    "model": "44ec3749-963a-44b1-aa54-dc19f6ed8ab2",
+    "modelName": "Unity Texture2D",
+    "customSeed": 381263526,
+    "w3CTraceId": "7cdb0efbd64feb3de93fb16009063217",
+    "refinementMode": "Generation"
+}
