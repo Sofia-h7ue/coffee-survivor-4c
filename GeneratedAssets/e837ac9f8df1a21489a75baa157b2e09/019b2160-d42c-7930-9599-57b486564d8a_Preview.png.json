@@ -1,0 +1,11 @@
+{
+    "asset": "e837ac9f8df1a21489a75baa157b2e09",
+    "fileName": "019b2160-d42c-7930-9599-57b486564d8a_Preview.png",
+    "prompt": "Farbverlauf von rot bis braun, Kaffeebohnen dazu, cartoon",
+    "negativePrompt": "",
+    "model": "44ec3749-963a-44b1-aa54-dc19f6ed8ab2",
+    "modelName": "Unity Texture2D",
+    "customSeed": 967159655,
+    "w3CTraceId": "3870d3edf417e1cc23482dd8ac9fafab",
+    "refinementMode": "Generation"
+}

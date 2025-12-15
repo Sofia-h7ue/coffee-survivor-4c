@@ -86,7 +86,6 @@ PlayerSettings:
   muteOtherAudioSources: 0
   Prepare IOS For Recording: 0
   Force IOS Speakers When Recording: 0
-  audioSpatialExperience: 0
   deferSystemGesturesMode: 0
   hideHomeButton: 0
   submitAnalytics: 1
@@ -921,11 +920,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: d68bac7a-9ffc-49bf-83f5-9be93f0d0323
+  cloudProjectId: e9be4b2a-40ae-4450-9747-26d31b9bd206
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: CoffeeSurvivor
-  organizationId: didi3825
+  projectName: sof
+  organizationId: sofiaskf
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
